@@ -1,0 +1,5 @@
+name: HeartDecreaser
+version: 1.0
+author: Jaymun
+main: com.jaymun.HeartsDecreasingPlugin
+description: Every 5 minutes you lose 1 heart
